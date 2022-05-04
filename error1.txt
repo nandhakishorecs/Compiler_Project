@@ -1,0 +1,8 @@
+$var = 5
+$var@ = 10
+ifnot:
+	print("Hello")
+suppose
+	print("Hi")
+ifnot:
+print("Bye")
